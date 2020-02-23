@@ -21,7 +21,12 @@ oskar.sharipov[at]tuta.io.
 
 Краткая инструкция по проверке сообщения.
 	* Установите signify и скачайте данное сообщение (message.sig).
-	* 
+	* Сохраните публичный ключ файлом (q.pub)
+	* Удостоверьтесь, что
+		signify -V -e -m message -p q.pub
+	  подтверждает, что подпись действительна.
+
+-- 
 
 Приватный ключ:
 	untrusted comment: q key! public key

@@ -1,5 +1,5 @@
 untrusted comment: verify with q.pub
-RWTJtJL6vjAHY9mCP4GcmhZgPEctg19VXI7c9RDQiUFV1R/2h5EzA1ah+kocPu3D3h+xdAQgdZViqM0AZeBdUVAU6nluXgAejwo=
+RWTJtJL6vjAHY/60/DTAJd2IscIxL21ON7E5prQlBxKPvDV8cH5HuNbOYs/RLX1wFpKlsGF6yRKSNwY2QGAL07CksgQns88IQQM=
 
 -- 
 2020-02-23
@@ -23,7 +23,12 @@ oskar.sharipov[at]tuta.io.
 
 Краткая инструкция по проверке сообщения.
 	* Установите signify и скачайте данное сообщение (message.sig).
-	* 
+	* Сохраните публичный ключ файлом (q.pub)
+	* Удостоверьтесь, что
+		signify -V -e -m message -p q.pub
+	  подтверждает, что подпись действительна.
+
+-- 
 
 Приватный ключ:
 	untrusted comment: q key! public key
