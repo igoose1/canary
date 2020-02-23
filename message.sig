@@ -1,10 +1,14 @@
 untrusted comment: verify with q.pub
-RWTJtJL6vjAHY/60/DTAJd2IscIxL21ON7E5prQlBxKPvDV8cH5HuNbOYs/RLX1wFpKlsGF6yRKSNwY2QGAL07CksgQns88IQQM=
+RWTJtJL6vjAHY7zklWGoyuk3hcZZ8nd+rK4UqXl8fgfFj4F2d7lySHhaBV/tIdaFLl9XkyUkEWQZXtf8uS6rkPJUYKbP99EUWAg=
 
 -- 
 2020-02-23
 
 Оскар Шарипов, то есть я, существует и не разлагается. Я живой.
+
+Сегодня воскресенье и праздник, последний коммит в linux kernel -- dca132
+(какие-то два фикса для AMD MCE драйвера), Let's Encrypt зарелизил проверку
+мультисеткой в прод, а COVID-2019 заразил почти 77.8к.
 
 -- 
 
