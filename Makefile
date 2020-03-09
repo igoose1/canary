@@ -14,6 +14,6 @@ signature: $(MESSAGE) $(KEY)
 
 .PHONY: git
 git:
-	git add $(MESSAGE) $(MESSAGE).sig
-	git commit -m "New update" -q || echo "No new files."
-	git push -q
+	@git add $(MESSAGE) $(MESSAGE).sig
+	@git commit -m "New update" -q || echo "No new files."
+	@git push -q
