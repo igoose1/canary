@@ -1,17 +1,11 @@
 untrusted comment: verify with q.pub
-RWTJtJL6vjAHY0gjbRthOSF7nbEdIpgTZxrEOGaqjR4EQ+9fCktdgwZesHkbAwtKxaG/EU8wGNVwhc0Vd+7bUHh+BgFIgVPYDQc=
+RWTJtJL6vjAHYx08Q/khCMoYC9cIEOtXTV994gN6g0eEkBw82cqULQordcK8HXnPA+0keSS6yZZ3PLz1edMDm1RB6LoEHvmPzQM=
 
 -- 
 
-2020-03-09
+2020-03-16
 
-Я чуть опоздал с предыдущей записью, но эту штуку все равно никто не читает...
-
-Вчера-сегодня резко упал рубль, let's encrypt отозвал много-много сертификатов
-из-за уязвимости, Яндекс Такси начали считать рейтинг для своих пассажирова,
-Curiosity от NASA сделал много фотографий, из которых организация слепили
-огромную панораму, на которой видно прикольный след от робота (ехад из кратера
-на возвышенность).
+В порядке, хотя и болею. Но болеет много кто, там сейчас жесть везде.
 
 А можно мне хоть кто-то скажет, что читает эти штуки?
 
