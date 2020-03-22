@@ -1,11 +1,11 @@
 untrusted comment: verify with q.pub
-RWTJtJL6vjAHYx08Q/khCMoYC9cIEOtXTV994gN6g0eEkBw82cqULQordcK8HXnPA+0keSS6yZZ3PLz1edMDm1RB6LoEHvmPzQM=
+RWTJtJL6vjAHY3ZlAs8J8oMEH//ivWF6RohHxHukyQfqNouY4uHHSs+PgLvyk7TJhXUipC6NNXyLCdiq++bHhzlmsaxUk/fw5Qw=
 
 -- 
 
 2020-03-16
 
-В порядке, хотя и болею. Но болеет много кто, там сейчас жесть везде.
+Я здоров и почти не болею.
 
 А можно мне хоть кто-то скажет, что читает эти штуки?
 
