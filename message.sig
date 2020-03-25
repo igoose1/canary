@@ -1,5 +1,5 @@
 untrusted comment: verify with q.pub
-RWTJtJL6vjAHY5ohtxEm4LUZKtQT3aq+eBxM0+tlDGn0F3xln46Tq3Uc3ulNsPpaRT4Nfpw89J0591o3NmmkZvWSwGs+uTOZFQg=
+RWTJtJL6vjAHY2pCbz61bcICMAu5k0lEeXO0L1fvRlNTSnUTvfXbGYuy38twcSnRrNe3QI6fa1to5K7GzYvZzWmXSTsBe0flZwU=
 
 -- 
 
@@ -33,7 +33,7 @@ oskar.sharipov[at]tuta.io.
 
 -- 
 
-Приватный ключ:
+Публичный ключ:
 	untrusted comment: q key! public key
 	RWTJtJL6vjAHYx5rX8FG3LwOPOIg2y3cai9QLDwgsWHty3CP/F1edx8r
 QR код:
