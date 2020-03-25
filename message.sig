@@ -1,11 +1,12 @@
 untrusted comment: verify with q.pub
-RWTJtJL6vjAHY2pCbz61bcICMAu5k0lEeXO0L1fvRlNTSnUTvfXbGYuy38twcSnRrNe3QI6fa1to5K7GzYvZzWmXSTsBe0flZwU=
+RWTJtJL6vjAHY1kT4pREGPBlwqx1ehFN0LxtceYjyg6OnlLzuEgXf1GFt8eppsQYfl8F9mGG/kZVKXWyIYWSv4cm384+Dwd+Ngo=
 
 -- 
 
-2020-03-23
+2020-03-25
 
-Я здоров и почти не болею.
+Привет. Последний коммит torvalds/linux:
+76ccd234269bd05debdbc12c96eafe62dd9a6180.
 
 А можно мне хоть кто-то скажет, что читает эти штуки?
 
