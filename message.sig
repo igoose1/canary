@@ -1,12 +1,11 @@
 untrusted comment: verify with q.pub
-RWTJtJL6vjAHY1kT4pREGPBlwqx1ehFN0LxtceYjyg6OnlLzuEgXf1GFt8eppsQYfl8F9mGG/kZVKXWyIYWSv4cm384+Dwd+Ngo=
+RWTJtJL6vjAHY/AafZlFyaPnVFa4JpwzLj4PPjD45Ki8R+PdYBkEGOqZN2VOjzIR8uATJBCtDBDNnu6igtssfmYOCKLzYolDuQE=
 
 -- 
 
-2020-03-25
+2020-04-04
 
-Привет. Последний коммит torvalds/linux:
-76ccd234269bd05debdbc12c96eafe62dd9a6180.
+А мы на карантине (вся республика).
 
 А можно мне хоть кто-то скажет, что читает эти штуки?
 
