@@ -21,8 +21,8 @@ oskar.sharipov[at]tuta.io.
 	RWTJtJL6vjAHYx5rX8FG3LwOPOIg2y3cai9QLDwgsWHty3CP/F1edx8r
 
 Заметьте, что "канарейки" не подписываются моим PGP-ключом. Им подписно только
-это сообщение, чтобы вы верили, что публичный ключ Ed25519 от signify(1) мой и
-только мой.
+это сообщение (проверьте readme.asc в данной директории), чтобы вы верили, что
+публичный ключ Ed25519 от signify(1) мой и только мой.
 
 Доступные источники, где можно найти message.sig:
 	http://oskarsh.ru/files/message.sig
