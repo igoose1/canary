@@ -1,13 +1,13 @@
 untrusted comment: verify with q.pub
-RWTJtJL6vjAHY/AafZlFyaPnVFa4JpwzLj4PPjD45Ki8R+PdYBkEGOqZN2VOjzIR8uATJBCtDBDNnu6igtssfmYOCKLzYolDuQE=
+RWTJtJL6vjAHY3rXWrZCqb7epMxKFgzw+1Vzthp+KiQXi1TnaIIUmFsCy54609u4mMLGclJ++yuRcBK9ESv/viu4D0JAFOxsZg4=
 
 -- 
 
-2020-04-04
+21 мая (05) 2020-го года.
 
-А мы на карантине (вся республика).
-
-А можно мне хоть кто-то скажет, что читает эти штуки?
+Я очень давно не писал сюда, и мне жаль. Я постараюсь исправиться. И сообщите
+как-нибудь, что вы это читаете, пожалуйста -- очень интересно знать, есть ли
+такие люди вообще.
 
 -- 
 
