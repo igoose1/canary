@@ -1,7 +1,7 @@
 untrusted comment: verify with q.pub
-RWTJtJL6vjAHY1o1qNO+QiKNhpiPPUKjzpczFLsbHJEF/3kbfLxf2jOWlKj3poU8slRYQasxfovZw527PJJAIkXB/0Ywd5OdMgk=
+RWTJtJL6vjAHY0/hMf7q/2uHxnKJs5DhtmL9HutCxOZr+gQSJiazUU/8rJit8+gl6mLjjrH2xgeLDyDdN8hb24hjz8sP2hTtFQ8=
 
-4-го июля. Я жива.
+12-ое июля.
 
 Сообщите как-нибудь, что вы это читаете, пожалуйста -- очень интересно знать,
 есть ли такие люди вообще.
