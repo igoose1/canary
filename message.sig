@@ -1,7 +1,7 @@
 untrusted comment: verify with q.pub
-RWTJtJL6vjAHY7PmehZOZpISfYFVS/Ep6BTF6rLsYBvsB9HR4LRFlPwCmIjQxXY8ICaAZC0g9dFxLiIbKzha9KUrOKVWZCWRow0=
+RWTJtJL6vjAHY1bO/PVfPOW9/QKF6HAcagsWGURxnZr/7e7ucw6yMPRGJ6h3Vu/gAKtgemb2RhGmIAJSNJkVJNj85Ue8EB0S/gM=
 
-13-ое августа, я жив.
+22 августа, всё в порядке.
 
 Сообщите как-нибудь, что вы это читаете, пожалуйста -- очень интересно знать,
 есть ли такие люди вообще.
