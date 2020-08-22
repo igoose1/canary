@@ -4,7 +4,7 @@ MESSAGE=message
 
 .PHONY: all
 all: signature git ipfs
-	@echo "Yay, we updated our new canary message!"
+	@echo "Message was updated."
 
 
 .PHONY: signature
@@ -15,7 +15,7 @@ signature: $(MESSAGE) $(KEY)
 .PHONY: git
 git:
 	@git add $(MESSAGE) $(MESSAGE).sig
-	@git commit -m "New update" -q || echo "No new files."; exit 1
+	@git commit -m "New update" -q
 	@git push -q
 
 .PHONY: ipfs
