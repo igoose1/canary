@@ -1,4 +1,4 @@
-KEY=$(HOME)/keys/q.sec
+KEY=$(HOME)/secure/keys/q.sec
 MESSAGE=message
 
 
