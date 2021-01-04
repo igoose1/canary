@@ -28,7 +28,7 @@ oskar.sharipov[at]tuta.io.
 	http://oskarsh.ru/files/message.sig
 	https://repo.or.cz/canary.git/blob_plain/HEAD:/message.sig
 	https://raw.githubusercontent.com/igoose1/canary/master/message.sig
-	https://rocketgit.com/user/qwskr/canary/source/tree/branch/master/blob/message.sig
+	https://rocketgit.com/user/qwskr/canary/source/tree/branch/master/blob_download/message.sig
 
 Также сообщение может быть в ipfs сети, но для этого уже надо знать хэш файла.
 
