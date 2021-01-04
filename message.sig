@@ -1,7 +1,7 @@
 untrusted comment: verify with q.pub
-RWTJtJL6vjAHY1bO/PVfPOW9/QKF6HAcagsWGURxnZr/7e7ucw6yMPRGJ6h3Vu/gAKtgemb2RhGmIAJSNJkVJNj85Ue8EB0S/gM=
+RWTJtJL6vjAHY/oiqG+NDB/qI3lgLzauju0tGslvMQDNX5mTLlDEAlAB9ybgjDZsod1H+FndwLqeluTU03GSNRodmfff7Ric0ws=
 
-22 августа, всё в порядке.
+04 января 2021. Я жив.
 
 Сообщите как-нибудь, что вы это читаете, пожалуйста -- очень интересно знать,
 есть ли такие люди вообще.
