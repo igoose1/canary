@@ -1,7 +1,7 @@
 untrusted comment: verify with q.pub
-RWTJtJL6vjAHYzh4D5SU6r2PSRf+bw7zAiBKbRyKI1L1e91nsh2ORlLfQddA9W5z2ZC20IbjipCC7Ee9ydxNbJ5XGkwC5Ql8Bg4=
+RWTJtJL6vjAHY65tZ1+VRsescEQrQhtM6boUtnahMqvZfPGIjv8m+EAE0RGQAx7sZOSMF1QK4mkTRldPw56+05wZuGU2SQs1UAM=
 
-28 марта, 2021 года. Я жив.
+17 сентября, 2021 года. Я жив. Давно не писал :-)
 
 Не забудьте проверить, что я написал год, а то я могу иногда это забывать
 делать. Сообщите как-нибудь, что вы это читаете, пожалуйста --- очень интересно
