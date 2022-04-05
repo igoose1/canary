@@ -1,7 +1,7 @@
 untrusted comment: verify with q.pub
-RWTJtJL6vjAHY65tZ1+VRsescEQrQhtM6boUtnahMqvZfPGIjv8m+EAE0RGQAx7sZOSMF1QK4mkTRldPw56+05wZuGU2SQs1UAM=
+RWTJtJL6vjAHY/C+dUQbM4/xrVH/iviL3yqDewk2sGSUsykBiBYMPTDJy370yJi/oul64HwL+I2MFcELSrx+i8R6yqNJkbAiMwU=
 
-17 сентября, 2021 года. Я жив. Давно не писал :-)
+5 апреля 2022. Я жив. Опять давно не писал!
 
 Не забудьте проверить, что я написал год, а то я могу иногда это забывать
 делать. Сообщите как-нибудь, что вы это читаете, пожалуйста --- очень интересно
